@@ -5,4 +5,4 @@ Dashboard Puplic Link - https://public.tableau.com/views/hotel_radisson_analysis
 
 Story Puplic Link - https://public.tableau.com/views/hotel_radisson_analysis_16818012875830/Story1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link
 
-Video Demonstration Link -
+Video Demonstration Link - https://drive.google.com/file/d/1TPBzSRZ7JN1DRmUuHRXihuU4HHsRvYpl/view?usp=share_link
